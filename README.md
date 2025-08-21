@@ -261,24 +261,3 @@ black . && isort .
 mypy classify.py
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/log-classification-system/issues)
-- **Documentation**: [Project Wiki](https://github.com/your-username/log-classification-system/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/log-classification-system/discussions)
-
-## 🏆 Acknowledgments
-
-- Built with [Transformers](https://huggingface.co/transformers/) for BERT embeddings
-- Uses [scikit-learn](https://scikit-learn.org/) for traditional ML components
-- Inspired by modern MLOps practices and production ML systems
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: August 2025  
-**Maintainer**: [Your Name](mailto:your.email@example.com)
